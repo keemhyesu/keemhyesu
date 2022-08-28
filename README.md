@@ -1,6 +1,6 @@
 <h1 align="center">HELLO WORLD! 🌏</h1>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KIMHYESU%&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=KIMHYESU%&fontSize=90)
 
 <!--
 **keemhyesu/keemhyesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
