@@ -17,6 +17,9 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white">
 
+
+![KIMHYESU's GitHub stats](https://github-readme-stats.vercel.app/api?username=keemhyesu&show_icons=true&theme=radical)
+
 <!--
 **keemhyesu/keemhyesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
